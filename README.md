@@ -1,8 +1,8 @@
 # Certifications
 
 **2023**
-- [Supervised Machine Learning -- (DeepLearning.AI/Coursera)](https://www.coursera.org/account/accomplishments/verify/VT3LUJA9YLYV) (March 2023)
 - [Building Recommender Systems with Machine Learning and AI](https://drive.google.com/file/d/1c7uFKnCszwIfjfRbyhHWehlc0CU0a6R9/view?usp=share_link) (April 2023)
+- [Supervised Machine Learning -- (DeepLearning.AI/Coursera)](https://www.coursera.org/account/accomplishments/verify/VT3LUJA9YLYV) (March 2023)
 
 **2022**
 - [Analytics 360 Data Science (6 Months Course)](https://drive.google.com/file/d/100293HTxJ-csHif6SROxrL-3Vw6yJ9_M/view?usp=share_link) (2022)
