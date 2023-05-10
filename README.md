@@ -2,7 +2,7 @@
 
 **2023**
 - [Supervised Machine Learning -- (DeepLearning.AI/Coursera)](https://www.coursera.org/account/accomplishments/verify/VT3LUJA9YLYV) (2023)
-- [Building Recommender Systems with Machine Learning and AI](https://github.com/kdshreyas/Certifications/blob/master/Certifications/Building%20Recommender%20Systems%20with%20Machine%20Learning%20and%20AI.pdf) (2023)
+- [Building Recommender Systems with Machine Learning and AI]([https://github.com/kdshreyas/Certifications/blob/master/Certifications/Building%20Recommender%20Systems%20with%20Machine%20Learning%20and%20AI.pdf](https://drive.google.com/file/d/1c7uFKnCszwIfjfRbyhHWehlc0CU0a6R9/view?usp=share_link)) (2023)
 
 **2022**
 - [Intermediate Python -- (Datacamp)](https://www.datacamp.com/statement-of-accomplishment/course/c53d7058e8412191d167c9bd0d47632e51684420) (April 2022)
