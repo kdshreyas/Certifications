@@ -5,7 +5,7 @@
 - [Machine Learning with scikit-learn -- (Datacamp)](https://www.datacamp.com/statement-of-accomplishment/course/eddc422c9465820829e8a0fcc2e2ed37f0810381) (February 2022)
 - [Introduction to Data Analytics -- (IBM / Coursera)](https://www.coursera.org/account/accomplishments/verify/RZPWMAVM89SZ) (Octomber 2021)
 - [Statistics with Iliya Valchanov -- (365 Data Science)](https://learn.365datascience.com/certificates/CC-E9BD04239A/) (November 2021)
+- [The SQL MicroDegree 2022: From SQL Basics To MySQL Mastery -- (Udemy)](https://www.udemy.com/certificate/UC-790ec35a-d151-4e9e-8f90-37f7053c7fe5/) (June 2021)
 - [Digital Product Management: Modern Fundamentals -- (University of Virginia / Coursera)](https://www.coursera.org/account/accomplishments/verify/JYM5WKTPH8YC) (May 2021)
 - [Crash Course on Python -- (Google / Coursera)](https://www.coursera.org/account/accomplishments/verify/MPBK4E7VZMG6) (2020)
-- [The SQL MicroDegree 2022: From SQL Basics To MySQL Mastery -- (Udemy)](https://www.udemy.com/certificate/UC-790ec35a-d151-4e9e-8f90-37f7053c7fe5/) (June 2021)
 - [Advanced Excel -- (Udemy)]
