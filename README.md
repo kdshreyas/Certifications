@@ -17,5 +17,5 @@
 - [Digital Product Management: Modern Fundamentals -- (University of Virginia / Coursera)](https://www.coursera.org/account/accomplishments/verify/JYM5WKTPH8YC) (May 2021)
 
 **2020**
-- [Crash Course on Python -- (Google / Coursera)](https://www.coursera.org/account/accomplishments/verify/MPBK4E7VZMG6) (2020)
+- [Crash Course on Python -- (Google / Coursera)](https://www.coursera.org/account/accomplishments/verify/MPBK4E7VZMG6) (November 2020)
 - [Advanced Excel -- (Udemy)] (2020)
