@@ -2,6 +2,7 @@
 
 **2023**
 - [Supervised Machine Learning -- (DeepLearning.AI/Coursera)](https://www.coursera.org/account/accomplishments/verify/VT3LUJA9YLYV) (2023)
+- [Building Recommender Systems with Machine Learning and AI]
 
 **2022**
 - [Intermediate Python -- (Datacamp)](https://www.datacamp.com/statement-of-accomplishment/course/c53d7058e8412191d167c9bd0d47632e51684420) (April 2022)
@@ -15,4 +16,4 @@
 
 **2020**
 - [Crash Course on Python -- (Google / Coursera)](https://www.coursera.org/account/accomplishments/verify/MPBK4E7VZMG6) (2020)
-- [Advanced Excel -- (Udemy)]
+- [Advanced Excel -- (Udemy)] (2020)
